@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+title: 3D Printed Skull
+date: 2022-10-30
+img: skull.png
+alt: image-alt
+project-date: October 2022 
+category: 3D Printing
+description: This ram skull was 3D printed in eight pieces using an FDM printer and a scaled up version of a publicly available <a href="https://www.thingiverse.com/thing:473590">3D model</a>. The assembled pieces were then painted and weathered to create a more lifelike prop.
+---
