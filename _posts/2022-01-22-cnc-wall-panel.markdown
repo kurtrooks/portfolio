@@ -1,7 +1,8 @@
 ---
 layout: default
-date: 2022-01-22
+date: 2023-06-27 
 title: CNC wall panel
+modal-id: 2
 img: cnc_wall_panel.png
 alt: image-alt
 project-data: January 2022
