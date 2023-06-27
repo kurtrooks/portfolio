@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Edison Lamp
-date: 2019-01-29
+date: 2023-06-27 
 modal-id: 6
 img: edison_lamp.png
 alt: image-alt
