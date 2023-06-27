@@ -6,5 +6,5 @@ modal-id: 2
 img: cnc_wall_panel.png
 alt: image-alt
 project-data: January 2022
-description: When the individual CNC cut pieces of wood are combined a graceful wave pattern emerges.
+description: This graceful 3D wave pattern is composed of stacked plywood layers cut to shape using a CNC router.
 ---
