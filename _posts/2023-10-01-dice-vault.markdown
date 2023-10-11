@@ -2,7 +2,7 @@
 layout: default
 date: 2023-10-01
 title: Magnetic Dice Vault
-modal-id: 2
+modal-id: 7
 img: dice_vault.png
 alt: image-alt
 project-data: October 2023
