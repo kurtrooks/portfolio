@@ -1,6 +1,6 @@
 ---
 layout: default
-#date: 2022-10-30
+date: 2022-10-30
 title: Burger Costume
 modal-id: 4
 img: burger.png
